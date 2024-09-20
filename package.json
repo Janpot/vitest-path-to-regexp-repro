@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@testing-library/react": "^16.0.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "@vitest/browser": "^2.1.1",
+    "path-to-regexp": "^8.1.0",
+    "playwright": "^1.47.1",
+    "react": "^18.3.1",
+    "vitest": "^2.1.1"
+  },
+  "packageManager": "pnpm@9.10.0+sha256.355a8ab8dbb6ad41befbef39bc4fd6b5df85e12761d2724bd01f13e878de4b13",
+  "scripts": {
+    "test": "vitest"
+  }
+}
